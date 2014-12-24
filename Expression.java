@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
-//Comment
+
 /**
  * Abstract class that models a mathematical expression using the operators "+", "-",
  * "*", and "/".  Abstract methods <code>verify</code> and <code>evaluate</code> must be implemented in any
